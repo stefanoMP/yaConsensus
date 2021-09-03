@@ -4,5 +4,6 @@ This package is avaliable from CRAN [https://cran.r-project.org/web/packages/yaC
 
 
 if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+
 BiocManager::install("stefanoMP/yaConsensus")
 
